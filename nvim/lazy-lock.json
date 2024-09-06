@@ -1,0 +1,10 @@
+{
+  "aurora": { "branch": "master", "commit": "af3e80a8ca4f9a6e3bd40e2ba12073c1d0041a81" },
+  "dracula.nvim": { "branch": "main", "commit": "fdf503e52ec1c8aae07353604d891fe5a3ed5201" },
+  "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" },
+  "nvim-treesitter": { "branch": "master", "commit": "63e1337f1b60c84a4100ebedfb1dc80924c49122" },
+  "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
+  "sourcerer.vim": { "branch": "master", "commit": "f6408ea1724ba85b68ea3f2875becece165aa06d" },
+  "telescope.nvim": { "branch": "master", "commit": "5972437de807c3bc101565175da66a1aa4f8707a" },
+  "vim-cyberpunk": { "branch": "master", "commit": "2c009b8451732d8e9742fe354c134f6a34b41f92" }
+}
